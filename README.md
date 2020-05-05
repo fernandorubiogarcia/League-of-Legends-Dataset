@@ -1,6 +1,6 @@
 This is a data set of some games from League of Legends. The games were collected from EUW region, patch 10.8. 
 
-I used Riot Api Developer Web to do so.
+I used Riot Developer portalto do so.
 
 I plan to do analysis on this data, to get an idea of how to maximize the chances of winning by picking a certain champion or
 team composition.
